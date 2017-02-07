@@ -22,6 +22,7 @@ class LRUCache
 
   def show
     p @cache
+    nil
   end
 
   private
